@@ -38,4 +38,4 @@ Special thanks to the UI designer, [DesignAxen](https://www.behance.net/DesignAx
 
 
 
-##### ©2023 Developed by Ahmod Hasan
+##### ©2023 Developed by Abdul Waris SHERZAD
